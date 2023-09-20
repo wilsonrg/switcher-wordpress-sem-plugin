@@ -9,7 +9,7 @@ Vantagens:
 + Prático
 + Não precisa instalar Plugin
 + Não precisa saber programar
-+ Ícones com 2k cada: <img src="/assets/switcher-true.gif"> <img src="/assets/switcher-false.gif">
++ Ícones com 2k cada: <img src="/switcher-true.gif"> <img src="/switcher-false.gif">
 
 
 ## Procedimentos
