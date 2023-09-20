@@ -13,16 +13,16 @@ Vantagens:
 
 ## Procedimentos
 
-
 1) Faça download das imagens "switcher-true.gif" e "switcher-false.gif";
 2) Faça upload das imagens no Painel do Wordpress em "Mídia";
 3) Use o gerenciador de arquivos ou um plugin para editar o arquivo functions.php localizado em: theme/nome do thema/functions.php;
-4) Copie o código "Switcher Genérico" e cole após o último código da página funcions.php
+4) Copie o código "Switcher Genérico" e cole após o último código da página funcions.php;
 5) Altere as varíaveis: CAMINHO-DO-ARQUIVO, SLUG-CPT, SLUG-SWITCHER;
 6) Salve o funcions.php, vá para o Painel do Wordpress, clique no CPT para abrir e faça os teste clicando nos switchers.
+
+
 ## Instalação / Código Switcher
 
-Instale my-project com npmr
 
 ```bash
   //===================================================================
